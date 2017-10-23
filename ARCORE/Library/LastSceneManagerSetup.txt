@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/dtyu.unity
+- path: Assets/VR - Zombie Shooter/demo.unity
   isLoaded: 1
   isActive: 1
